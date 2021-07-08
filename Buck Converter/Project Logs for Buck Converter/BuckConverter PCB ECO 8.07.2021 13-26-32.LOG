@@ -1,5 +1,0 @@
-Change Component Designator: OldDesignator=D? NewDesignator=D1
-Added Member To Class: ClassName=BuckConverter Member=Component * LM2595
-Added Member To Class: ClassName=BuckConverter Member=Component D1 SS36L RVG
-Added Member To Class: ClassName=BuckConverter Member=Component R1 1 kOhms
-Added Room: Name=BuckConverter
